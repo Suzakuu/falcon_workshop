@@ -1,5 +1,4 @@
 .git/*
 .conda/*
 .venv/*
-images/11_24/*.fit
-images/11_24/lights/-Light Frame-1-Acrux-0.fit
+images/11_24/*
