@@ -2,4 +2,5 @@
 .conda/*
 .venv/*
 images/11_24/*
+images/11_09/*
 main.code-workspace
