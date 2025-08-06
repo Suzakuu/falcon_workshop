@@ -1,6 +1,12 @@
 .git/*
 .conda/*
 .venv/*
-images/11_24/*
-images/11_09/*
+./images/11_24/*
+./images/11_09/*
 main.code-workspace
+images/11-09/bias/
+images/11-09/darks/
+images/11-09/flats/
+images/11-09/lights/
+images/11_24/lights/
+images/11_24/series/
